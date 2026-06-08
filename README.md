@@ -15,7 +15,7 @@
 
 ### Links
 [GitHub Pages](https://pages.github.com/)
-[Origiinal Artifacts]:
+[Original Artifacts]:
 Enhanced Artifacts:
 Code Review:
 ePortfolio:
