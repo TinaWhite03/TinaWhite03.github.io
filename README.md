@@ -19,5 +19,5 @@
 ### [GitHub Pages](https://pages.github.com/)
 ### [Original Artifacts]:
 ### Enhanced Artifacts:
-### [Code Review]:(https://youtu.be/UktNBWLbHUw?si=1g-bm3R6xU2fLe4f)
+### [Code Review](https://youtu.be/UktNBWLbHUw?si=1g-bm3R6xU2fLe4f)
 ### ePortfolio:
