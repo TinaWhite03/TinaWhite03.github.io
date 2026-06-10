@@ -4,13 +4,29 @@
 # Self-Assessment
 
 # Enhancement 1: Software Design and Engineering 
-## CS320 - Software Testing 
+## CS340 - Advanced Programming Concepts  
+
+### Before
+
+
+### After
 
 # Enhancement 2: Algorithms and Data Structures 
 ## CS330 - Computational Graphics and Visualization 
 
+### Before
+
+
+### After
+
 # Enhancement 3: Databases 
-## CS340 - Advanced Programming Concepts  
+## CS320 - Software Testing 
+
+### Before
+
+
+### After
+
 
 # Code Review
 
@@ -19,7 +35,6 @@
 
 
 ### Links
-### [GitHub Pages](https://pages.github.com/)
 ### [Original Artifacts]:
 ### Enhanced Artifacts:
 ### [Code Review](https://youtu.be/UktNBWLbHUw?si=1g-bm3R6xU2fLe4f)
