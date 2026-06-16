@@ -20,6 +20,11 @@ The process for the enhancement increased my understanding of software practices
 ## Enhancement 2: Algorithms and Data Structures 
 ## CS330 - Computational Graphics and Visualization 
 
+The OpenGL-based application that rendered is a 3D scence with a living room with multiple objects that includes a television, flooring with carpet along with a back wall. The application was created in Winter of 2025 as the final project. The reason why I chose this artifact was to demonstrate my compentcy in alorgirms and data structures because it provided the foundation of performance optimization. The original code showed my ability to create complex 3D scence with lighting and camera controls but it lacked proper data structure for the scene managment. The enhancement I added was octree-based partitioning that improved the performance of the application by reducing the number of objects per frame.
+
+The enhancement demonstrated my understanding of hierarchical data structure for scene mangament along with the skills demonstrated also included algorithmic effiencym profiling tools to measure improvements and balance between speed and memory usage. Throughout the process I gained valuable knowdelge into partitioning algorithms in real time. I faced a lot of challenges in particually maintaing the existing rendering while intergrating the octree as the OpenGL is sensitive and tend to black out and crash my code from time to time. Improving the artifact I was able to meet Outcome 3 by creating efficent algorithms and Outcome 4 by using the tools for performance improvements. This process taught me that efficitve design requires practical testing and patience to achieve meaningful results.
+
+
 ### Before
 
 
