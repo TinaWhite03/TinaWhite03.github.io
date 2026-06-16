@@ -22,7 +22,9 @@ The process for the enhancement increased my understanding of software practices
 
 The artificat is the final project from my CS 330 class Computational Graphics and Visualization course. Created in the Winter of 2025, it's a C++ application that uses OpenGL and GLFW for rendering a 3D scene. The project have classes named ViewManager, SceneManager, and Camera to manage the 3D environment, lighting, textures, and shapes to make a living room scene with a television, carpeted flooring with lighting. 
 
-I chose this artifact because it showed my compentency of my ability to work with graphical programming. With the intial version 
+I chose this artifact because it showed my compentency of my ability to work with graphical programming. With the intial version of the code it's functional and rendered eveI rything in the scene just fine the enhancement I implemented was an octree partitioning system I was able to improve the algorithms with the improvements I was able to demonstrate my ability to find and analyze the system weakness and applied the solution to reduce the workload of the rendering, greatly improving the performance and effeciency highlighting my growth.
+
+My itnitial taks was to analyze the original code and find the problem on why it isn't running effieicieny I found that the RenderScene in ScenceManager.cpp called the m_basicMeshes-> and the DrawBoxMesh had similar functions for the objects and frame. Improving this, I made the Octree, that made the 3D space into eight octants. The hardest challenge was to intergrate it into the exisitng rendering as it's something seperate from the scene. This taught me the importance of balacing the algorithms with practical implementation. I can say that I met the credentials of Outcome 3 and 4 with the enhancement. By providing the evidence of my improvements I can confidently say that I addressed the.
 
 
 ### Before
