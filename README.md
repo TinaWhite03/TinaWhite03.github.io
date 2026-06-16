@@ -1,6 +1,3 @@
-
-###### Created by Christina White
-
 # Self-Assessment
 
 # Enhancement 1: Software Design and Engineering 
@@ -39,3 +36,6 @@
 ### Enhanced Artifacts:
 ### [Code Review](https://youtu.be/UktNBWLbHUw?si=1g-bm3R6xU2fLe4f)
 ### ePortfolio:
+
+
+###### Created by Christina White
