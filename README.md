@@ -7,9 +7,9 @@ My name is Christina White, and as my through SNHU comes to an end, my Computer 
 ## Enhancement 1: Software Design and Engineering 
 ## CS340 - Advanced Programming Concepts  
 
-The Animal Shelter Database is the application I created originally in CS340. I enhanced it in May 2026 for my ePortfolio. The artifact consists of a Python-based CRUD Module using MongoDB and Jupyter. It creates an interactive and visualized dashboard for the animal shelter Grazioso Salvare. This demonstrates my ability to build a user-friendly and efficient application for real-world use. I chose this artifact in my ePortfolio because it showcases my mastery of software development concepts, including security implementation, database design, and CRUD operations. The enhancement allowed me to show my growth from basic functionality to creating my own code with proper handling and security measures.
+The artifact is the final of from my CS 340 class Client Server. Its an AnimalShleter class Python module that provides the CRUD (Create, Read, Update, Delete) model that operates the animal shelter database using MongoDB and Jupyter, the artifact was enhanced in May of 2026 to add indusrtry standard practices, optimization and error handling. This is the backend layer used by Grazioso Salvare to track and resuce animals.
 
-The process for the enhancement increased my understanding of software practices. The original application ran smoothly with basic functionality, but its performance was not optimized. During the enhancement, I learned the importance of industry-standard security and comprehensive logging for tracking audit trails. These lessons helped me incorporate query optimization and proper indexing. I faced challenges with cross-origin resource sharing (CORS), porting conflicts, and ObjectID type, which caused rendering issues. Indentation problems also caused code failures. With this process and the help of my instructor, I was able to meet the outcomes for Software Design and Engineering in my Portfolio.
+The reason for it's inclusion is because it demonstrated my proficiency in backend software development, coding practices and database integration.
 
 ### Before
 
