@@ -1,9 +1,8 @@
 ---
 ---
+@import 'jekyll-theme-cayman';
 
-@import "{{ site.theme }}";
-
-/* Tab Container */
+/* ===== TAB STYLES ===== */
 .tab-container {
   margin: 20px 0;
 }
@@ -13,6 +12,7 @@
   border-bottom: 2px solid #e1e4e8;
   margin-bottom: 20px;
   flex-wrap: wrap;
+  gap: 4px;
 }
 
 .tab-label {
@@ -21,11 +21,11 @@
   background: #f6f8fa;
   border: 1px solid #e1e4e8;
   border-bottom: none;
-  margin-right: 5px;
   border-radius: 6px 6px 0 0;
   font-weight: 500;
   transition: all 0.2s ease;
   user-select: none;
+  font-size: 14px;
 }
 
 .tab-label:hover {
@@ -71,5 +71,19 @@
   .tab-content {
     border-color: #444c56;
     background: #22272e;
+  }
+}
+
+/* Mobile responsive tabs */
+@media (max-width: 600px) {
+  .tab-label {
+    flex: 1 1 auto;
+    text-align: center;
+    padding: 8px 12px;
+    font-size: 13px;
+  }
+  
+  .tab-content {
+    padding: 15px;
   }
 }
