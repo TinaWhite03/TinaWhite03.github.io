@@ -1,0 +1,75 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Tab Container */
+.tab-container {
+  margin: 20px 0;
+}
+
+.tab-labels {
+  display: flex;
+  border-bottom: 2px solid #e1e4e8;
+  margin-bottom: 20px;
+  flex-wrap: wrap;
+}
+
+.tab-label {
+  padding: 10px 20px;
+  cursor: pointer;
+  background: #f6f8fa;
+  border: 1px solid #e1e4e8;
+  border-bottom: none;
+  margin-right: 5px;
+  border-radius: 6px 6px 0 0;
+  font-weight: 500;
+  transition: all 0.2s ease;
+  user-select: none;
+}
+
+.tab-label:hover {
+  background: #e1e4e8;
+}
+
+.tab-label.active {
+  background: #ffffff;
+  border-bottom: 2px solid #159957;
+  color: #159957;
+}
+
+.tab-content {
+  display: none;
+  padding: 20px;
+  border: 1px solid #e1e4e8;
+  border-radius: 0 0 6px 6px;
+  background: #ffffff;
+}
+
+.tab-content.active {
+  display: block;
+}
+
+/* Dark mode support for Cayman theme */
+@media (prefers-color-scheme: dark) {
+  .tab-label {
+    background: #2d333b;
+    border-color: #444c56;
+    color: #cdd9e5;
+  }
+  
+  .tab-label:hover {
+    background: #444c56;
+  }
+  
+  .tab-label.active {
+    background: #22272e;
+    border-bottom-color: #58a6ff;
+    color: #58a6ff;
+  }
+  
+  .tab-content {
+    border-color: #444c56;
+    background: #22272e;
+  }
+}
