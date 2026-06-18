@@ -1,11 +1,16 @@
 ---
 layout: default
-title: ePortfolio
 ---
 
 # Welcome to My ePortfolio
 
-<!-- TABS -->
+Text can be **bold**, _italic_, or ~~strikethrough~~.
+
+[Link to another page](./another-page.html).
+
+There should be whitespace between paragraphs.
+
+<!-- ===== TABS SECTION ===== -->
 <div class="tab-container">
   <div class="tab-labels">
     <span class="tab-label active" onclick="switchTab(event, 'tab1')">📁 Projects</span>
@@ -20,6 +25,7 @@ title: ePortfolio
       <li><strong>Project B</strong> - Description of project B</li>
       <li><strong>Project C</strong> - Description of project C</li>
     </ul>
+    <p>You can also add <a href="#">links</a> and other content inside tabs.</p>
   </div>
   
   <div id="tab2" class="tab-content">
@@ -55,7 +61,23 @@ function switchTab(event, tabId) {
   event.target.classList.add('active');
 }
 </script>
+<!-- ===== END TABS ===== -->
 
-## More About Me
+## Header 1
 
-This content appears below the tabs.
+This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+
+## Header 2
+
+> This is a blockquote following a header.
+>
+> When something is important enough, you do it even if the odds are not in your favor.
+
+### Header 3
+
+```js
+// Javascript code with syntax highlighting.
+var fun = function lang(l) {
+  dateformat.i18n = require('./lang/' + l)
+  return true;
+}
