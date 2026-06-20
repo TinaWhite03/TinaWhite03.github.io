@@ -26,7 +26,12 @@ Looking forward, I aim to continue to grow as a software engineer that specializ
 
 [![Watch the video](https://img.youtube.com/vi/UktNBWLbHUw/0.jpg)](https://youtu.be/UktNBWLbHUw?si=1g-bm3R6xU2fLe4f)
 
+In my code review, I walked through the current functionality of my ePortfolio artifact, which is a simple, Python-based inventory management system. I began by demonstrating how the program loads data from a CSV file, allowing users to view, add, and update product stock through a command-line interface. The core of my explanation focused on how the system efficiently uses a dictionary to store product IDs as keys and their respective quantities as values, making lookups and modifications fast and straightforward. However, I also highlighted the system's current limitations: it lacks a graphical user interface, has minimal error handling, and doesn't persist changes back to the CSV file after a session ends. This is the baseline I'll be working from.
+
+My primary goal for enhancing this artifact is to transform it from a functional but rudimentary tool into a robust and user-friendly application, while also expanding my own development skills. My plan, as detailed in the review, is to first integrate a GUI using Tkinter to improve user accessibility and experience. I will then implement proper data persistence so that all updates are saved to the CSV file, and finally, I will add input validation and exception handling to prevent crashes. These enhancements directly support my learning objectives in software design and data management. By undertaking these modifications, I am not only adding value to the project but also demonstrating my ability to evolve a simple script into a more complete application, which showcases my growth in secure, robust coding practices.
+
 *Click the image above to watch my code review video.*
+
 
 ---
 
