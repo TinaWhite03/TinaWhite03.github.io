@@ -16,4 +16,4 @@ By enhancing the TaskService was valuable learning experience because the proces
 
 [Enhancement]
 
-[← Project Page](https://tinawhite03.github.io/projects)
+[← Home Page](https://tinawhite03.github.io)
