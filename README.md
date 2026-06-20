@@ -44,11 +44,4 @@ By enhancing the TaskService was valuable learning experience because the proces
 
 
 
-### Links
-### [Original Artifacts]:
-### Enhanced Artifacts:
-### [Code Review](https://youtu.be/UktNBWLbHUw?si=1g-bm3R6xU2fLe4f)
-### ePortfolio:
 
-
-###### Created by Christina White
