@@ -7,18 +7,25 @@ title: Home
 
 ## Self-Assessment
 
-My name is Christina White, and as my time in SNHU comes to an end, my computer science journey begins. This journey has shaped my professional and career aspirations, with the curriculum aiding in my competency. I have developed a skill set that sets me apart in the highly competitive technology field. With the development of my ePortfolio, I particularly focus on three enhancements in software engineering and design, databases, and algorithms and data structures. It allowed me to demonstrate my proficiency and has prepared me for the professional landscape. This self-assessment serves as an introduction to me and my portfolio and a testament to my growth as a competent computer scientist.
+My name is Christina White, and as my time in SNHU comes to an end, my computer science journey begins. This journey has shaped my professional and career aspirations, with the curriculum aiding in my competency. Through the coursework of completing software engineering, data structures, and security along with the devleopment of the ePortfolio, I have developed a comprehensive skill set that makes me the ideal candidate in the computer science industry. With this self-assessment it reflects my growth within the program, demonstrating my compentencies and introducing the artifacts I have completed that showcases my abilities to future and potential employers.
 
-Looking forward, I will aim to continue to grow as a software engineer who specializes in full and back-end development. The skills demonstrated with my enhancements. This portfolio represents not just the culmination of my academic work but the foundation of my professional career. Each artifact tells a story of growth, challenge, and achievement—stories that I am excited to share with potential employers as I embark on the next chapter of my journey in computer science.
+The computer science program has provided me both knowdlege and expereience to help me build my portfolio. Each course has challenged me to think critcally, solving complex problems, and helped me produce work that shows my capabilites. The development of my ePortfolio in particular has been instrumental into helping me create and curate my best work. Enhacing my acadmeic work into my own original work illustrated into professional-grade artifacts that illustrate my growth for the workforce. Looking forward, I will aim to continue to grow as a software engineer who specializes in full and back-end development. The skills demonstrated with my enhancements. This portfolio represents not just the culmination of my academic work but the foundation of my professional career. Each artifact tells a story of growth, challenge, and achievement—stories that I am excited to share with potential employers as I embark on the next chapter of my journey in computer science.
 
-The development of my ePortfolio, I focused on the three enhancements specifically in:
+--
 
-- **Software Engineering and Design**
-- **Algorithms and Data Structure**
-- **Databases**
+Collaborating in a Team Environment
 
-I demonstrated my proficieny and compentency and have prepared myself in the professional field. With my self-assessment serves as my introduction to myself and my portfolio, shows my growth as a future computer scientist.
+Throughout my coursework I have delevoped stronger colaboration skills that are important in the professional setting. In CS340 (Client/Server Development), I was working with my classmates and used discussion posts to design and make a full-stack application, this experience has taught me the impportance of clear communication and team work as maintaing industry and coding practices is eaiser within a team setting. Addionally in CS320 (Software Testing andf Quality Assurance), collaborating with my peers and reviewing each other code helped stregthening my abiliity to give and recieve constructive feedback that translate into my code review process. With these experiences this helped me understand that being a successful softwate engineer I have to learn to trust and lean on others and helped shaped my interpersonal skills to contribute in team projects while also maintaining effective communication.
 
+--
+
+Communication with Stakeholders
+
+Being able to communicate with stakeholders is a recurring scenario in my program. CS340, creating a documentation and a dashboard application the experience taught me that understanding the presentation I have to understand the stakeholder needs and making effective and tangable business value. In CS330 (Computational Graphics and Visualization), it has expanded my techinical needs not only for myself but for diverse audiences, and explaining rending and opimization techniques in ways to help explain both developeres and managers. The presentation required me to better articulate my decisions with my rendering scence while justifying said decisions a skill that is imperative for the real world. My goal is to serve as the bridge between the stakeholders and software engineers, making sure that there are better communication and understanding by all of the parties involved helping me devleope to better document and translate user needs and requirements into specifications to make the product better.
+
+--
+
+Data Structures and Algorithms
 
 ---
 
