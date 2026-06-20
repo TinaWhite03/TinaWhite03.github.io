@@ -4,11 +4,34 @@
   
   <!-- Navigation Tabs -->
   <nav class="site-nav">
-    <ul style="list-style: none; padding: 0; display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-      <li><a href="{{ '/' | relative_url }}" class="btn">Home</a></li>
-      <li><a href="{{ '/about' | relative_url }}" class="btn">Code Review</a></li>
-      <li><a href="{{ '/projects' | relative_url }}" class="btn">Enhancment 1</a></li>
-      <li><a href="{{ '/contact' | relative_url }}" class="btn">Contact</a></li>
+    <ul style="list-style: none; padding: 0; margin: 20px 0 0; display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+      <!-- Home tab -->
+      <li>
+        <a href="{{ '/' | relative_url }}" class="btn {% if page.url == '/' %}btn-primary{% endif %}">
+          Home
+        </a>
+      </li>
+      
+      <!-- About tab -->
+      <li>
+        <a href="{{ '/about' | relative_url }}" class="btn {% if page.url contains '/about' %}btn-primary{% endif %}">
+          About
+        </a>
+      </li>
+      
+      <!-- Projects tab -->
+      <li>
+        <a href="{{ '/projects' | relative_url }}" class="btn {% if page.url contains '/projects' %}btn-primary{% endif %}">
+          Projects
+        </a>
+      </li>
+      
+      <!-- Contact tab -->
+      <li>
+        <a href="{{ '/contact' | relative_url }}" class="btn {% if page.url contains '/contact' %}btn-primary{% endif %}">
+          Contact
+        </a>
+      </li>
     </ul>
   </nav>
 </header>
