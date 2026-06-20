@@ -16,4 +16,4 @@ Enhancing the artifact has taught me the importance of error handling and securi
 
 [Enhancement]
 
-[← Home Page](index.md)
+[← Project Page](https://tinawhite03.github.io/projects)
