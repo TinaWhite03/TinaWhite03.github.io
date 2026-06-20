@@ -6,62 +6,10 @@ title: Software Design & Engineering
 # Enhancement 1: Software Design and Engineering
 ## CS340 - Advanced Programming Concepts
 
-## Overview
+The first artifact is the final project from my CS 340 class, Client Server. It's an AnimalShelter class Python module that provides the CRUD (Create, Read, Update, Delete) model that operates the animal shelter database using MongoDB and Jupyter. The artifact was enhanced in May of 2026 to add industry-standard practices, optimization, and error handling. This is the backend layer used by Grazioso Salvare to track and rescue animals.
 
-The first artifact is the final project from my CS 340 class, Client Server. It's an AnimalShelter class Python module that provides the CRUD (Create, Read, Update, Delete) model that operates the animal shelter database using MongoDB and Jupyter.
+The reason for its inclusion is that it demonstrated my proficiency in backend software development, coding practices, and database integration. It showcases skills in adding error handling, data validation following OWASP guidelines, and having queries with limit parameters. I chose this in particular because it represents the multiple intersections of software development, such as security, API design, and database management, which are essential for full-stack development. These improvements showed my proficiency in applying these skills in the real world.
 
-The artifact was enhanced in May 2026 to add industry-standard practices, optimization, and error handling. This is the backend layer used by Grazioso Salvare to track and rescue animals.
-
-## Why I Chose This Artifact
-
-I chose this artifact because it represents the intersection of multiple software development aspects:
-- Backend development
-- Security practices
-- API design
-- Database management
-
-These skills are essential for full-stack development and demonstrate my proficiency in applying them in real-world scenarios.
-
-## Technologies Used
-
-- **Python** - Core programming language
-- **MongoDB** - NoSQL database
-- **Jupyter** - Development environment
-- **OWASP Guidelines** - Security implementation
-
-## Key Enhancements
-
-### 1. Error Handling
-Implemented robust error handling to prevent crashes and provide meaningful feedback.
-
-### 2. Security Improvements
-- Input validation following OWASP guidelines
-- Protection against injection attacks
-- Secure database operations
-
-### 3. Performance Optimization
-- Added limit parameters to queries
-- Optimized database operations
-- Reduced unnecessary data retrieval
-
-## Challenges and Solutions
-
-### Challenge: Overcomplicating the Code
-**Solution:** Focused on functionality over aesthetics. Prioritized code that runs better over code that looks better.
-
-### Challenge: Security Implementation
-**Solution:** Incorporated OWASP guidelines for input validation to protect the database, not just prevent crashes.
-
-## Skills Demonstrated
-
-- Backend software development
-- Database integration
-- Security best practices
-- Error handling and logging
-- Code optimization
-
-## Conclusion
-
-This enhancement demonstrates my ability to solve complex problems and implement database operations with security and efficiency in mind. The artifact meets core outcomes in software engineering and design.
+Enhancing the artifact has taught me the importance of error handling and security. I only focused on functionality over anything else. I then discovered that having proper authentication can handle the application by configuration and by adaptation without changing the code. One of the biggest challenges I faced was overcomplicating the code for it to look better instead of running better. By incorporating the OWASP, the input validation isn't about preventing crashes; it's about protecting the database. In turn, the artifact meets the core outcomes, including solving complex problems and implementing database operations.
 
 [← Back to Projects](/projects)
