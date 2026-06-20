@@ -6,70 +6,10 @@ title: Databases
 # Enhancement 3: Databases
 ## CS320 - Software Testing, Automation QA
 
-## Overview
+The third articfact is my final project from my CS320, Software Test, Automation QA. With this artifact, the TaskService.java, is a class that manages of Task objects using a HashMap. I created it in CS320 to demonstrate the service layer functionality for task management system. The original provides methods for updating, adding and deleting tasks but the data is stored in a memory structure meaning that it would be gone if the application stopped.
 
-The third artifact is my final project from CS320. The TaskService.java is a class that manages Task objects using a HashMap. Created to demonstrate the service layer functionality for a task management system.
+I selected the artifact to showcase my compentency in in-memeory data structure and datastore. By enhancing the service I was able to intergrate and interact with the database, also showing my skills in scalability, seperating concerns and understanding the priciplces of data principle. The original artificat has a great foundation of object orientation. The enhancement improves it by adding the persistence layer making the service better for the application this progress allowed me to demonstrate the skills of adapting the existing code to have the best practices and meet new requiremnets.
 
-## Why I Chose This Artifact
-
-I selected this artifact to showcase my competency in:
-- In-memory data structures
-- Database integration
-- Scalability principles
-- Separation of concerns
-
-The original artifact provided a great foundation in object-oriented programming. The enhancement adds a persistence layer, making the service more robust and production-ready.
-
-## Technologies Used
-
-- **Java** - Core programming language
-- **HashMap** - In-memory data structure
-- **DAO Pattern** - Data access object architecture
-- **Database Integration** - Persistence layer
-
-## Key Enhancements
-
-### Database Persistence Layer
-
-Transformed the service from in-memory storage to database-persistent solution:
-
-**Before:**
-- Data stored in HashMap
-- Lost when application stopped
-- Not scalable
-
-**After:**
-- Database persistence
-- TaskDAO implementation
-- InMemoryTaskDAO fallback
-- Scalable architecture
-
-### Separation of Concerns
-
-Implemented proper architectural patterns:
-1. **TaskService** - Business logic layer
-2. **TaskDAO** - Data access interface
-3. **InMemoryTaskDAO** - In-memory implementation
-4. **DatabaseTaskDAO** - Database implementation
-
-## Challenges and Solutions
-
-### Challenge: Data Storage Design
-**Solution:** Designed the architecture to follow data integration principles while maintaining flexibility for different storage backends.
-
-### Challenge: Maintainability
-**Solution:** Created a clear separation between service and data access layers, making the code more maintainable and adaptable.
-
-## Skills Demonstrated
-
-- Database design and integration
-- Data access patterns (DAO)
-- Object-oriented design
-- System architecture
-- Scalability planning
-
-## Conclusion
-
-This enhancement demonstrates my ability to adapt existing code to meet new requirements and implement best practices. The improved architecture showcases my understanding of design patterns and their real-world applications.
+By enhancing the TaskService was valuable learning experience because the process required me to think about how the data is stored and not only think about the HashMap. The main challenge was the designing aspect because I wanted to follow the principles of data integration without the setup. Reviewing my code and moving the data into a TaskDAO and InMemeoryTaskDAO made necessary separation to make it more maintainable. Doing this I was able to make the service for maintainable and adpatable. These shows my ability to use architectural patterns and being able to adapt the application and applied it into the real world.
 
 [← Back to Projects](/projects)
