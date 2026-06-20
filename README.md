@@ -40,7 +40,7 @@ By enhancing the TaskService was valuable learning experience because the proces
 
 # Code Review
 
-[![Watch the video](https://youtube.com)](https://youtu.be/UktNBWLbHUw?si=1g-bm3R6xU2fLe4f))
+[![Watch the video](https://youtube.com)](https://youtu.be/UktNBWLbHUw?si=1g-bm3R6xU2fLe4f)
 
 
 
