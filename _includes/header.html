@@ -1,0 +1,14 @@
+<header class="page-header" role="banner">
+  <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
+  <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+  
+  <!-- Navigation Tabs -->
+  <nav class="site-nav">
+    <ul style="list-style: none; padding: 0; display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+      <li><a href="{{ '/' | relative_url }}" class="btn">Home</a></li>
+      <li><a href="{{ '/about' | relative_url }}" class="btn">About</a></li>
+      <li><a href="{{ '/projects' | relative_url }}" class="btn">Projects</a></li>
+      <li><a href="{{ '/contact' | relative_url }}" class="btn">Contact</a></li>
+    </ul>
+  </nav>
+</header>
