@@ -1,40 +1,56 @@
 ---
 layout: default
-title: Projects
+title: Home
 ---
 
-# My Projects
+# Welcome to My ePortfolio
 
-## 🔧 Software Design & Engineering
+## Self-Assessment
 
-### AnimalShelter CRUD System
-**Course:** CS340 - Advanced Programming Concepts  
-**Technologies:** Python, MongoDB, Jupyter
+My name is Christina White, and as my time at SNHU comes to an end, my Computer Science journey has shaped my professional and career aspirations. The curriculum has aided in my competency, and I have developed a skill set that sets me apart in the competitive technology field.
 
-A backend CRUD system for an animal shelter database. Enhanced with security best practices and error handling.
+With the development of my ePortfolio, particularly focusing on three enhancements in:
+- **Software Engineering and Design**
+- **Databases**
+- **Algorithms and Data Structure**
 
-[View Project Details →](/projects/software-design)
+I have demonstrated my proficiency and prepared myself for the professional landscape. This self-assessment serves as an introduction to myself and my portfolio, and a testament to my growth as a competent computer scientist.
 
----
-
-## 🎯 Algorithms & Data Structures
-
-### 3D Scene with Octree Partitioning
-**Course:** CS330 - Computational Graphics and Visualization  
-**Technologies:** C++, OpenGL, GLFW
-
-A 3D living room scene rendered with OpenGL, enhanced with octree partitioning for improved performance.
-
-[View Project Details →](/projects/algorithms)
+Looking forward, I aim to continue to grow as a software engineer that specializes in full-stack and back-end development.
 
 ---
 
-## 💾 Databases
+## Code Review
 
-### Task Management System
-**Course:** CS320 - Software Testing, Automation QA  
-**Technologies:** Java, DAO Pattern
+[![Watch the video](https://img.youtube.com/vi/UktNBWLbHUw/0.jpg)](https://youtu.be/UktNBWLbHUw?si=1g-bm3R6xU2fLe4f)
 
-A task service enhanced with database persistence and proper architectural patterns.
+*Click the image above to watch my code review video.*
 
-[View Project Details →](/projects/databases)
+---
+
+## My Projects
+
+### 🔧 Software Design & Engineering
+**AnimalShelter CRUD System** - Python, MongoDB, Jupyter
+
+A backend CRUD system for an animal shelter database with OWASP security guidelines.
+
+[View Project →](/projects/software-design)
+
+---
+
+### 🎯 Algorithms & Data Structures
+**3D Scene with Octree** - C++, OpenGL, GLFW
+
+A 3D living room scene enhanced with octree partitioning for improved rendering performance.
+
+[View Project →](/projects/algorithms)
+
+---
+
+### 💾 Databases
+**Task Management System** - Java, DAO Pattern
+
+A task service enhanced from in-memory storage to database persistence with proper separation of concerns.
+
+[View Project →](/projects/databases)
