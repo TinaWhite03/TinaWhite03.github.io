@@ -4,7 +4,8 @@
 
 My name is Christina White, and as my time in SNHU comes to an end, my Computer Science journey began. This journey has shaped my professional and career aspirations, with the curriculm aiding in my compentency I have developed a skill set that sets me apart in the every competetive technology field. With the devleopment of my ePortfolio, particulary focuses on three enhancements in software engineering and design, databases and algorithms and data structure allowed me to demonstrate my proficiency and has prepared me for the professional landscape. This self-assessment serves as introduction to myself and portfolio and a testament of my growth as a compentent computer scientist.
 
-Looking forward, I will aim to continue to grow as a software engineer that specializes in full and back-end development. The skills demonstrated with my enhancments 
+Looking forward, I will aim to continue to grow as a software engineer that specializes in full and back-end development. The skills demonstrated with my enhancments This portfolio represents not just the culmination of my academic work but the foundation of my professional career. Each artifact tells a story of growth, challenge, and achievement—stories that I am excited to share with potential employers as I embark on the next chapter of my journey in computer science.
+
 
 ## Enhancement 1: Software Design and Engineering 
 ## CS340 - Advanced Programming Concepts  
