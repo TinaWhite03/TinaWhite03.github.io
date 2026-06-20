@@ -16,4 +16,4 @@ My initial task was to analyze the original code and find the problem with why i
 
 [Enhancement]
 
-[← Home Page](https://tinawhite03.github.io/projects)
+[← Home Page](https://tinawhite03.github.io)
