@@ -1,48 +1,40 @@
-# ePortfolio
+---
+layout: default
+title: Projects
+---
 
-## Self-Assessment
+# My Projects
 
-My name is Christina White, and as my time in SNHU comes to an end, my Computer Science journey began. This journey has shaped my professional and career aspirations, with the curriculm aiding in my compentency I have developed a skill set that sets me apart in the every competetive technology field. With the devleopment of my ePortfolio, particulary focuses on three enhancements in software engineering and design, databases and algorithms and data structure allowed me to demonstrate my proficiency and has prepared me for the professional landscape. This self-assessment serves as introduction to myself and portfolio and a testament of my growth as a compentent computer scientist.
+## 🔧 Software Design & Engineering
 
-Looking forward, I will aim to continue to grow as a software engineer that specializes in full and back-end development. The skills demonstrated with my enhancments 
+### AnimalShelter CRUD System
+**Course:** CS340 - Advanced Programming Concepts  
+**Technologies:** Python, MongoDB, Jupyter
 
-## Enhancement 1: Software Design and Engineering 
-## CS340 - Advanced Programming Concepts  
+A backend CRUD system for an animal shelter database. Enhanced with security best practices and error handling.
 
-The first artifact is the final project from my CS 340 class, Client Server. It's an AnimalShelter class Python module that provides the CRUD (Create, Read, Update, Delete) model that operates the animal shelter database using MongoDB and Jupyter. The artifact was enhanced in May of 2026 to add industry-standard practices, optimization, and error handling. This is the backend layer used by Grazioso Salvare to track and rescue animals.
+[View Project Details →](/projects/software-design)
 
-The reason for its inclusion is that it demonstrated my proficiency in backend software development, coding practices, and database integration. It showcases skills in adding error handling, data validation following OWASP guidelines, and having queries with limit parameters. I chose this in particular because it represents the multiple intersections of software development, such as security, API design, and database management, which are essential for full-stack development. These improvements showed my proficiency in applying these skills in the real world.
+---
 
-Enhancing the artifact has taught me the importance of error handling and security. I only focused on functionality over anything else. I then discovered that having proper authentication can handle the application by configuration and by adaptation without changing the code. One of the biggest challenges I faced was overcomplicating the code for it to look better instead of running better. By incorporating the OWASP, the input validation isn't about preventing crashes; it's about protecting the database. In turn, the artifact meets the core outcomes, including solving complex problems and implementing database operations.
+## 🎯 Algorithms & Data Structures
 
-## Enhancement 2: Algorithms and Data Structures 
-## CS330 - Computational Graphics and Visualization 
+### 3D Scene with Octree Partitioning
+**Course:** CS330 - Computational Graphics and Visualization  
+**Technologies:** C++, OpenGL, GLFW
 
-The second artifact is the final project from my CS 330 class, Computational Graphics and Visualization course. Created in the Winter of 2025, it's a C++ application that uses OpenGL and GLFW for rendering a 3D scene. The project has classes named ViewManager, SceneManager, and Camera to manage the 3D environment, lighting, textures, and shapes to make a living room scene with a television, carpeted flooring, and lighting. 
+A 3D living room scene rendered with OpenGL, enhanced with octree partitioning for improved performance.
 
-I chose this artifact because it showed my compentency of my ability to work with graphical programming. With the intial version of the code it's functional and rendered eveI rything in the scene just fine the enhancement I implemented was an octree partitioning system I was able to improve the algorithms with the improvements I was able to demonstrate my ability to find and analyze the system weakness and applied the solution to reduce the workload of the rendering, greatly improving the performance and effeciency highlighting my growth.
+[View Project Details →](/projects/algorithms)
 
-My initial task was to analyze the original code and find the problem with why it isn't running efficiently. I found that the RenderScene in SceneManager.cpp called the m_basicMeshes-> and the DrawBoxMesh had similar functions for the objects and frame. Improving this, I made the Octree, which made the 3D space into eight octants. The hardest challenge was to integrate it into the existing rendering, as it's something separate from the scene. This taught me the importance of balancing the algorithms with practical implementation. I can say that I met the credentials of Outcomes 3 and 4 with the enhancement. By providing the evidence of my improvements, I can confidently say that I achieved the results in a meaningful way.
+---
 
+## 💾 Databases
 
-## Enhancement 3: Databases 
-## CS320 - Software Testing 
+### Task Management System
+**Course:** CS320 - Software Testing, Automation QA  
+**Technologies:** Java, DAO Pattern
 
-The third articfact is my final project from my CS320, Software Test, Automation QA. With this artifact, the TaskService.java, is a class that manages of Task objects using a HashMap. I created it in CS320 to demonstrate the service layer functionality for task management system. The original provides methods for updating, adding and deleting tasks but the data is stored in a memory structure meaning that it would be gone if the application stopped.
+A task service enhanced with database persistence and proper architectural patterns.
 
-I selected the artifact to showcase my compentency in in-memeory data structure and datastore. By enhancing the service I was able to intergrate and interact with the database, also showing my skills in scalability, seperating concerns and understanding the priciplces of data principle. The original artificat has a great foundation of object orientation. The enhancement improves it by adding the persistence layer making the service better for the application this progress allowed me to demonstrate the skills of adapting the existing code to have the best practices and meet new requiremnets.
-
-By enhancing the TaskService was valuable learning experience because the process required me to think about how the data is stored and not only think about the HashMap. The main challenge was the designing aspect because I wanted to follow the principles of data integration without the setup. Reviewing my code and moving the data into a TaskDAO and InMemeoryTaskDAO made necessary separation to make it more maintainable. Doing this I was able to make the service for maintainable and adpatable. These shows my ability to use architectural patterns and being able to adapt the application and applied it into the real world.
-
-
-
-
-
-# Code Review
-
-[![Watch the video](https://youtube.com)](https://youtu.be/UktNBWLbHUw?si=1g-bm3R6xU2fLe4f))
-
-
-
-
-
+[View Project Details →](/projects/databases)
