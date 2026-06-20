@@ -2,7 +2,9 @@
 
 ## Self-Assessment
 
-My name is Christina White, and as my through SNHU comes to an end, my Computer Science journey began. 
+My name is Christina White, and as my time in SNHU comes to an end, my Computer Science journey began. This journey has shaped my professional and career aspirations, with the curriculm aiding in my compentency I have developed a skill set that sets me apart in the every competetive technology field. With the devleopment of my ePortfolio, particulary focuses on three enhancements in software engineering and design, databases and algorithms and data structure allowed me to demonstrate my proficiency and has prepared me for the professional landscape. This self-assessment serves as introduction to myself and portfolio and a testament of my growth as a compentent computer scientist.
+
+Looking forward, I will aim to continue to grow as a software engineer that specializes in full and back-end development. The skills demonstrated with my enhancments 
 
 ## Enhancement 1: Software Design and Engineering 
 ## CS340 - Advanced Programming Concepts  
@@ -12,11 +14,6 @@ The first artifact is the final project from my CS 340 class, Client Server. It'
 The reason for its inclusion is that it demonstrated my proficiency in backend software development, coding practices, and database integration. It showcases skills in adding error handling, data validation following OWASP guidelines, and having queries with limit parameters. I chose this in particular because it represents the multiple intersections of software development, such as security, API design, and database management, which are essential for full-stack development. These improvements showed my proficiency in applying these skills in the real world.
 
 Enhancing the artifact has taught me the importance of error handling and security. I only focused on functionality over anything else. I then discovered that having proper authentication can handle the application by configuration and by adaptation without changing the code. One of the biggest challenges I faced was overcomplicating the code for it to look better instead of running better. By incorporating the OWASP, the input validation isn't about preventing crashes; it's about protecting the database. In turn, the artifact meets the core outcomes, including solving complex problems and implementing database operations.
-### Before
-
-
-
-### After
 
 ## Enhancement 2: Algorithms and Data Structures 
 ## CS330 - Computational Graphics and Visualization 
@@ -27,11 +24,6 @@ I chose this artifact because it showed my compentency of my ability to work wit
 
 My initial task was to analyze the original code and find the problem with why it isn't running efficiently. I found that the RenderScene in SceneManager.cpp called the m_basicMeshes-> and the DrawBoxMesh had similar functions for the objects and frame. Improving this, I made the Octree, which made the 3D space into eight octants. The hardest challenge was to integrate it into the existing rendering, as it's something separate from the scene. This taught me the importance of balancing the algorithms with practical implementation. I can say that I met the credentials of Outcomes 3 and 4 with the enhancement. By providing the evidence of my improvements, I can confidently say that I achieved the results in a meaningful way.
 
-
-### Before
-
-
-### After
 
 ## Enhancement 3: Databases 
 ## CS320 - Software Testing 
@@ -44,10 +36,6 @@ By enhancing the TaskService was valuable learning experience because the proces
 
 
 
-### Before
-
-
-### After
 
 
 # Code Review
