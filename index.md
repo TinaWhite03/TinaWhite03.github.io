@@ -7,7 +7,9 @@ title: Home
 
 ## Self-Assessment
 
-My name is Christina White, and as my time at SNHU comes to an end, my Computer Science journey has shaped my professional and career aspirations. The curriculum has aided in my competency, and I have developed a skill set that sets me apart in the competitive technology field.
+My name is Christina White, and as my time in SNHU comes to an end, my Computer Science journey began. This journey has shaped my professional and career aspirations, with the curriculm aiding in my compentency I have developed a skill set that sets me apart in the every competetive technology field. With the devleopment of my ePortfolio, particulary focuses on three enhancements in software engineering and design, databases and algorithms and data structure allowed me to demonstrate my proficiency and has prepared me for the professional landscape. This self-assessment serves as introduction to myself and portfolio and a testament of my growth as a compentent computer scientist.
+
+Looking forward, I will aim to continue to grow as a software engineer that specializes in full and back-end development. The skills demonstrated with my enhancments This portfolio represents not just the culmination of my academic work but the foundation of my professional career. Each artifact tells a story of growth, challenge, and achievement—stories that I am excited to share with potential employers as I embark on the next chapter of my journey in computer science.
 
 With the development of my ePortfolio, particularly focusing on three enhancements in:
 - **Software Engineering and Design**
@@ -30,7 +32,7 @@ Looking forward, I aim to continue to grow as a software engineer that specializ
 
 ## My Projects
 
-### 🔧 Software Design & Engineering
+### 🐾 Software Design & Engineering
 **AnimalShelter CRUD System** - Python, MongoDB, Jupyter
 
 A backend CRUD system for an animal shelter database with OWASP security guidelines.
@@ -39,7 +41,7 @@ A backend CRUD system for an animal shelter database with OWASP security guideli
 
 ---
 
-### 🎯 Algorithms & Data Structures
+### 👩‍💻 Algorithms & Data Structures
 **3D Scene with Octree** - C++, OpenGL, GLFW
 
 A 3D living room scene enhanced with octree partitioning for improved rendering performance.
@@ -48,7 +50,7 @@ A 3D living room scene enhanced with octree partitioning for improved rendering 
 
 ---
 
-### 💾 Databases
+### 🌐 Databases
 **Task Management System** - Java, DAO Pattern
 
 A task service enhanced from in-memory storage to database persistence with proper separation of concerns.
