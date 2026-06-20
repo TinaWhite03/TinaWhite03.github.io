@@ -27,6 +27,16 @@ Being able to communicate with stakeholders is a recurring scenario in my progra
 
 Data Structures and Algorithms
 
+The program has given me a better understandng of both data structures and algorithms. CS330, applying this knowdlege by implementing an Octree partitioning system to better optimize my 3D scene. Demonstrating my ability to selecte the right data structures for specfic performance and implemeting the right solutions that improve the application performance. Beside the artifacts my coursework in data structures introduced me to a wide array of fundamental concepts including hash tables, sorting algorithmns and graphs. Learning the trade-offs between complexitites helped me selected on using the apporaite structures based on specic usage. For instance in CS320, I applied a task management system using HashMaps strengthening my understanding of how selections impacts performance. My goal is to continue furthering my knowdlege in algorithms by applying and writing readable and functioning code that can handle user demands and data.
+
+--
+
+Softare Engineering and Database
+
+--
+
+Security
+
 ---
 
 ## Code Review
