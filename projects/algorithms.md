@@ -14,6 +14,6 @@ My initial task was to analyze the original code and find the problem with why i
 
 [Original]
 
-[Enhancement]
+[Enhancement](Enhancement_Two(CS330))
 
 [← Home Page](https://tinawhite03.github.io)
