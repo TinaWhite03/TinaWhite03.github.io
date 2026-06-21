@@ -45,8 +45,13 @@ Learning the true importance of security and that it’s an integral part of the
 
 How the Artifacts Fit
 
-They present my compentency of my computer science including them in my portfolio respents my particalur expertise in these fields. 
+The diversity of my enhanced artifacts shows my versatility as an engineer and developer who is capable of working and adapting to multiple different technologies and sections. From basic functioning code to high-level applications. I have developed a very sought-after skill-set that makes me a valuable team member and asset to any company and team.
 
+Software Architecture: The TaskService demonstrates service-layer design and database integration
+Data Management: Both the dashboard and TaskService illustrate database and data handling skills
+Full-Stack Development: The Dashboard Application showcases front-end and back-end integration
+Software Architecture: The TaskService demonstrates service-layer design and database integration
+Performance Optimization: The Octree enhancement in the renderer shows algorithmic thinking
 
 
 
