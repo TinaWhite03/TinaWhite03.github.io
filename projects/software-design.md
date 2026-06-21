@@ -12,7 +12,7 @@ The reason for its inclusion is that it demonstrated my proficiency in backend s
 
 Enhancing the artifact has taught me the importance of error handling and security. I only focused on functionality over anything else. I then discovered that having proper authentication can handle the application by configuration and by adaptation without changing the code. One of the biggest challenges I faced was overcomplicating the code for it to look better instead of running better. By incorporating the OWASP, the input validation isn't about preventing crashes; it's about protecting the database. In turn, the artifact meets the core outcomes, including solving complex problems and implementing database operations.
 
-[Original]
+[Original](CS340Mod7ProjectTwo)
 
 [Enhancement]
 
