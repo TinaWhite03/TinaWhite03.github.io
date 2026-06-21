@@ -12,7 +12,7 @@ I selected the artifact to showcase my compentency in in-memeory data structure 
 
 By enhancing the TaskService was valuable learning experience because the process required me to think about how the data is stored and not only think about the HashMap. The main challenge was the designing aspect because I wanted to follow the principles of data integration without the setup. Reviewing my code and moving the data into a TaskDAO and InMemeoryTaskDAO made necessary separation to make it more maintainable. Doing this I was able to make the service for maintainable and adpatable. These shows my ability to use architectural patterns and being able to adapt the application and applied it into the real world.
 
-[Original](enhacements/CS 499 Enhancement Three (CS320) (3).zip) 
+[Original](Enhancement_Three (CS320).zip)
 
 [Enhancement]
 
