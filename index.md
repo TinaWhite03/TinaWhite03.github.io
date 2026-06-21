@@ -3,9 +3,9 @@ layout: default
 title: Home
 ---
 
-Welcome to My ePortfolio
+## Welcome to My ePortfolio!
 
-Self-Assessment
+# Self-Assessment
 
 My name is Christina White. As I finish my time at SNHU, I am starting my journey in computer science. This experience has shaped my career goals and helped me build strong skills. By completing courses in software engineering, data structures, and security, and by developing this ePortfolio, I have gained a well-rounded skill set for the computer science field. This self-assessment highlights my growth in the program, shows my strengths, and introduces the work I have completed to share with future employers.
 
@@ -47,11 +47,11 @@ How the Artifacts Fit
 
 The diversity of my enhanced artifacts shows my versatility as an engineer and developer who is capable of working and adapting to multiple different technologies and sections. From basic functioning code to high-level applications. I have developed a very sought-after skill-set that makes me a valuable team member and asset to any company and team.
 
-Software Architecture: The TaskService demonstrates service-layer design and database integration
-Data Management: Both the dashboard and TaskService illustrate database and data handling skills
-Full-Stack Development: The Dashboard Application showcases front-end and back-end integration
-Software Architecture: The TaskService demonstrates service-layer design and database integration
-Performance Optimization: The Octree enhancement in the renderer shows algorithmic thinking
+### 💻 Software Architecture: The TaskService demonstrates service-layer design and database integration
+### 🖱️ Data Management: Both the dashboard and TaskService illustrate database and data handling skills
+### 💽 Full-Stack Development: The Dashboard Application showcases front-end and back-end integration
+### 💿 Software Architecture: The TaskService demonstrates service-layer design and database integration
+### 📀 Performance Optimization: The Octree enhancement in the renderer shows algorithmic thinking
 
 
 
