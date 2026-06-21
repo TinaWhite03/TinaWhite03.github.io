@@ -3,41 +3,55 @@ layout: default
 title: Home
 ---
 
-# Welcome to My ePortfolio
+Welcome to My ePortfolio
 
-## Self-Assessment
+Self-Assessment
 
-My name is Christina White, and as my time in SNHU comes to an end, my computer science journey begins. This journey has shaped my professional and career aspirations, with the curriculum aiding in my competency. Through the coursework of completing software engineering, data structures, and security along with the devleopment of the ePortfolio, I have developed a comprehensive skill set that makes me the ideal candidate in the computer science industry. With this self-assessment it reflects my growth within the program, demonstrating my compentencies and introducing the artifacts I have completed that showcases my abilities to future and potential employers.
+My name is Christina White. As I finish my time at SNHU, I am starting my journey in computer science. This experience has shaped my career goals and helped me build strong skills. By completing courses in software engineering, data structures, and security, and by developing this ePortfolio, I have gained a well-rounded skill set for the computer science field. This self-assessment highlights my growth in the program, shows my strengths, and introduces the work I have completed to share with future employers.
 
-The computer science program has provided me both knowdlege and expereience to help me build my portfolio. Each course has challenged me to think critcally, solving complex problems, and helped me produce work that shows my capabilites. The development of my ePortfolio in particular has been instrumental into helping me create and curate my best work. Enhacing my acadmeic work into my own original work illustrated into professional-grade artifacts that illustrate my growth for the workforce. Looking forward, I will aim to continue to grow as a software engineer who specializes in full and back-end development. The skills demonstrated with my enhancements. This portfolio represents not just the culmination of my academic work but the foundation of my professional career. Each artifact tells a story of growth, challenge, and achievement—stories that I am excited to share with potential employers as I embark on the next chapter of my journey in computer science.
+The computer science program has given me both knowledge and experience to build my portfolio. Each course pushed me to think critically, solve complex problems, and create work that shows my abilities. Building my ePortfolio helped me collect and present my best projects. Turning my academic work into professional-level projects has shown my growth and readiness for the workforce. I plan to keep growing as a software engineer, focusing on full and back-end development. The skills I have gained are shown in my portfolio. This collection is not just the end of my academic journey but the start of my professional career. Each project shows my growth, challenges, and achievements. I look forward to sharing these with potential employers as I begin my career in computer science.
 
---
+–
 
 Collaborating in a Team Environment
 
-Throughout my coursework I have delevoped stronger colaboration skills that are important in the professional setting. In CS340 (Client/Server Development), I was working with my classmates and used discussion posts to design and make a full-stack application, this experience has taught me the impportance of clear communication and team work as maintaing industry and coding practices is eaiser within a team setting. Addionally in CS320 (Software Testing andf Quality Assurance), collaborating with my peers and reviewing each other code helped stregthening my abiliity to give and recieve constructive feedback that translate into my code review process. With these experiences this helped me understand that being a successful softwate engineer I have to learn to trust and lean on others and helped shaped my interpersonal skills to contribute in team projects while also maintaining effective communication.
+Throughout my coursework, I have developed stronger collaboration skills that are important in the professional setting. In CS340 (Client/Server Development), I was working with my classmates and used discussion posts to design and make a full-stack application. This experience has taught me the importance of clear communication and teamwork, as maintaining industry and coding practices is easier within a team setting. Additionally, in CS320 (Software Testing and Quality Assurance), collaborating with my peers and reviewing each other's code helped strengthen my ability to give and receive constructive feedback that translates into my code review process. With these experiences, this helped me understand that being a successful software engineer, I have to learn to trust and lean on others, and it helped shape my interpersonal skills to contribute to team projects while also maintaining effective communication.
 
---
+–
 
 Communication with Stakeholders
 
-Being able to communicate with stakeholders is a recurring scenario in my program. CS340, creating a documentation and a dashboard application the experience taught me that understanding the presentation I have to understand the stakeholder needs and making effective and tangable business value. In CS330 (Computational Graphics and Visualization), it has expanded my techinical needs not only for myself but for diverse audiences, and explaining rending and opimization techniques in ways to help explain both developeres and managers. The presentation required me to better articulate my decisions with my rendering scence while justifying said decisions a skill that is imperative for the real world. My goal is to serve as the bridge between the stakeholders and software engineers, making sure that there are better communication and understanding by all of the parties involved helping me devleope to better document and translate user needs and requirements into specifications to make the product better.
+Being able to communicate with stakeholders is a recurring scenario in my program. CS340, creating a documentation and a dashboard application, the experience taught me that understanding the presentation, I have to understand the stakeholder needs and make effective and tangible business value. In CS330 (Computational Graphics and Visualization), it has expanded my technical needs not only for myself but for diverse audiences, and explaining rendering and optimization techniques in ways to help explain both developers and managers. The presentation required me to better articulate my decisions with my rendering scene while justifying said decisions, a skill that is imperative for the real world. My goal is to serve as the bridge between the stakeholders and software engineers, making sure that there is better communication and understanding by all of the parties involved, helping me develop to better document and translate user needs and requirements into specifications to make the product better.
 
---
+–
 
 Data Structures and Algorithms
 
-The program has given me a better understandng of both data structures and algorithms. CS330, applying this knowdlege by implementing an Octree partitioning system to better optimize my 3D scene. Demonstrating my ability to selecte the right data structures for specfic performance and implemeting the right solutions that improve the application performance. Beside the artifacts my coursework in data structures introduced me to a wide array of fundamental concepts including hash tables, sorting algorithmns and graphs. Learning the trade-offs between complexitites helped me selected on using the apporaite structures based on specic usage. For instance in CS320, I applied a task management system using HashMaps strengthening my understanding of how selections impacts performance. My goal is to continue furthering my knowdlege in algorithms by applying and writing readable and functioning code that can handle user demands and data.
+My understanding of data structures and algorithms serves as the premier example of my problem-solving capabilities. In CS320, I was exploring how different data structures, such as the tree-impact and hash maps, were impacting the performance. I used these principles when optimizing the TaskService artifact, moving from a simple HashMap to a more intricate architecture that shows my understanding of how the data affects the system capabilities. This thinking has helped me approach the problems systematically.
 
---
+–
 
-Softare Engineering and Database
+Software Engineering and Database
 
---
+With my technical proficiency in both software engineering and database. In 340, I developed the AnimalShelter, gaining practical experience with both MongoDB and Python while having proper error handling and upholding industry practices. This project taught me the importance of scalability and performance, which is carried into projects and coursework. This gives the ability to integrate database solutions as one of the main pillars of software development, giving me the confidence to deliver efficient and optimal back-end systems.
+
+–
 
 Security
 
+Learning the true importance of security and that it’s an integral part of the development cycle, leveraging my strength in problem-solving, integration, and software engineering. My goal is to contribute to organizations with quality, where I can continue to grow as an engineer while contributing solutions to challenges. The skills I demonstrated in my portfolio reflect my capabilities and readiness for the professional landscape.
+
 ---
+
+How the Artifacts Fit
+
+They present my compentency of my computer science including them in my portfolio respents my particalur expertise in these fields. 
+
+
+
+
+--
+
 
 ## Code Review
 
