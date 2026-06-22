@@ -13,45 +13,49 @@ The computer science program has given me both knowledge and experience to build
 
 –
 
-Collaborating in a Team Environment
+## Collaborating in a Team Environment
 
 Throughout my coursework, I have developed stronger collaboration skills that are important in the professional setting. In CS340 (Client/Server Development), I was working with my classmates and used discussion posts to design and make a full-stack application. This experience has taught me the importance of clear communication and teamwork, as maintaining industry and coding practices is easier within a team setting. Additionally, in CS320 (Software Testing and Quality Assurance), collaborating with my peers and reviewing each other's code helped strengthen my ability to give and receive constructive feedback that translates into my code review process. With these experiences, this helped me understand that being a successful software engineer, I have to learn to trust and lean on others, and it helped shape my interpersonal skills to contribute to team projects while also maintaining effective communication.
 
 –
 
-Communication with Stakeholders
+## Communication with Stakeholders
 
 Being able to communicate with stakeholders is a recurring scenario in my program. CS340, creating a documentation and a dashboard application, the experience taught me that understanding the presentation, I have to understand the stakeholder needs and make effective and tangible business value. In CS330 (Computational Graphics and Visualization), it has expanded my technical needs not only for myself but for diverse audiences, and explaining rendering and optimization techniques in ways to help explain both developers and managers. The presentation required me to better articulate my decisions with my rendering scene while justifying said decisions, a skill that is imperative for the real world. My goal is to serve as the bridge between the stakeholders and software engineers, making sure that there is better communication and understanding by all of the parties involved, helping me develop to better document and translate user needs and requirements into specifications to make the product better.
 
 –
 
-Data Structures and Algorithms
+## Data Structures and Algorithms
 
 My understanding of data structures and algorithms serves as the premier example of my problem-solving capabilities. In CS320, I was exploring how different data structures, such as the tree-impact and hash maps, were impacting the performance. I used these principles when optimizing the TaskService artifact, moving from a simple HashMap to a more intricate architecture that shows my understanding of how the data affects the system capabilities. This thinking has helped me approach the problems systematically.
 
 –
 
-Software Engineering and Database
+## Software Engineering and Database
 
 With my technical proficiency in both software engineering and database. In 340, I developed the AnimalShelter, gaining practical experience with both MongoDB and Python while having proper error handling and upholding industry practices. This project taught me the importance of scalability and performance, which is carried into projects and coursework. This gives the ability to integrate database solutions as one of the main pillars of software development, giving me the confidence to deliver efficient and optimal back-end systems.
 
 –
 
-Security
+## Security
 
 Learning the true importance of security and that it’s an integral part of the development cycle, leveraging my strength in problem-solving, integration, and software engineering. My goal is to contribute to organizations with quality, where I can continue to grow as an engineer while contributing solutions to challenges. The skills I demonstrated in my portfolio reflect my capabilities and readiness for the professional landscape.
 
 ---
 
-How the Artifacts Fit
+## How the Artifacts Fit
 
-The diversity of my enhanced artifacts shows my versatility as an engineer and developer who is capable of working and adapting to multiple different technologies and sections. From basic functioning code to high-level applications. I have developed a very sought-after skill-set that makes me a valuable team member and asset to any company and team.
+The diversity of my enhanced artifacts shows my versatility as an engineer and developer who is capable of working and adapting to multiple different technologies and sections. From basic functioning code to high-level applications. I have developed a very sought-after skill-set that makes me a valuable team member and asset to any company and team. The list below is my versality and compentency of various subjects of my work.
 
-### 💻 Software Architecture: The TaskService demonstrates service-layer design and database integration
-### 🖱️ Data Management: Both the dashboard and TaskService illustrate database and data handling skills
-### 💽 Full-Stack Development: The Dashboard Application showcases front-end and back-end integration
-### 💿 Software Architecture: The TaskService demonstrates service-layer design and database integration
-### 📀 Performance Optimization: The Octree enhancement in the renderer shows algorithmic thinking
+##### 💻 Software Architecture: The TaskService demonstrates service-layer design and database integration makeing the software stand out in the application.
+
+##### 🖱️ Data Management: Both the dashboard and TaskService illustrate database and data handling skills with no error handling and being to run smoothly.
+
+##### 💽 Full-Stack Development: The Dashboard Application showcases front-end and back-end integration of a working application.
+
+##### 💿 Software Architecture: The TaskService demonstrates service-layer design and database integration intertwing both to make a cohevise artitecture.
+
+##### 📀 Performance Optimization: The Octree enhancement in the renderer shows algorithmic thinking making the scene render better.
 
 
 
