@@ -12,7 +12,7 @@ I chose this artifact because it showed my compentency of my ability to work wit
 
 My initial task was to analyze the original code and find the problem with why it isn't running efficiently. I found that the RenderScene in SceneManager.cpp called the m_basicMeshes-> and the DrawBoxMesh had similar functions for the objects and frame. Improving this, I made the Octree, which made the 3D space into eight octants. The hardest challenge was to integrate it into the existing rendering, as it's something separate from the scene. This taught me the importance of balancing the algorithms with practical implementation. I can say that I met the credentials of Outcomes 3 and 4 with the enhancement. By providing the evidence of my improvements, I can confidently say that I achieved the results in a meaningful way.
 
-[Original]
+[Original](CS330Project7.zip)
 
 [Enhancement](Enhancement_Two(CS330.zip))
 
