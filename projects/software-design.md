@@ -14,6 +14,6 @@ Enhancing the artifact has taught me the importance of error handling and securi
 
 [Original](CS340Mod7ProjectTwo)
 
-[Enhancement]
+[Enhancement](CS499EnhancementOne (CS340))
 
 [← Home Page](https://tinawhite03.github.io)
